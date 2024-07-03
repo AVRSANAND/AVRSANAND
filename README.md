@@ -83,11 +83,6 @@ I'm a Computer Science graduate with a passion for developing innovative program
 - **Email**: avrsanand2003@gmail.com
 - **LinkedIn**: [AVRS ANAND](https://www.linkedin.com/in/avrsanand)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVRSANAND&show_icons=true&theme=radical) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AVRSANAND&layout=compact&theme=radical)
 
 ## 📈 Coding Activity
 
