@@ -100,4 +100,3 @@ I'm always open to collaborating on interesting projects and ideas. Feel free to
 
 *“Computer Science is either great or hell nothing in between.” – My View*
 
-Thanks for visiting my profile!
