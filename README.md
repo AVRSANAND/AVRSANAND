@@ -1,6 +1,6 @@
 # Hi there, I'm ANAND 👋
 
-I'm a Computer Science graduate with a passion for developing innovative programs and applications. My expertise spans across a range of technologies, from front-end development to back-end programming and everything in between. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a Computer Science graduate with a passion for developing innovative programs and applications. My interest spans across a range of technologies, from front-end development to back-end programming and everything in between. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ## 🛠 Skills and Technologies
 
@@ -89,7 +89,7 @@ I'm a Computer Science graduate with a passion for developing innovative program
 
 I'm currently expanding my knowledge in:
 - Advanced data structures and algorithms
-- Machine Learning and AI
+- Generative AI - (Gen AI)
 - Game development with Godot, Unity
 
 ## 💬 Let's Collaborate
