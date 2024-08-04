@@ -78,7 +78,7 @@ I'm a Computer Science graduate with a passion for developing innovative program
 
 ## 📫 How to Reach Me
 - **Email**: avrsanand2003@gmail.com
-- **LinkedIn**: [AVRS ANAND](https://www.linkedin.com/in/avrsanand)
+- **Linkedin**: [AVRS ANAND](https://www.linkedin.com/in/avrsanand)
 
 
 ## 📈 Coding Activity
