@@ -1,6 +1,6 @@
 # Hi there, I'm ANAND 👋
 
-I'm a Computer Science graduate with a passion for developing innovative programs and applications. My interest spans across a range of technologies, from front-end development to back-end programming and everything in between. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a Computer Science graduate. I am learning Python and have basic skills as a web developer (HTML/CSS/JS). I like working on Gen AI since it is the current hot topic in the industry. You can see some projects which I did by following tutorials or courses below. Thank you for your time.
 
 ## 🛠 My Skills and Technologies
 
