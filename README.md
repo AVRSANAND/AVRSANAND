@@ -84,6 +84,7 @@ I'm a Computer Science graduate. I am learning Python and have basic skills as a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 -->
 
+<!--
 
 ## 📫 How to Reach Me
 - **Email**: avrsanand2003@gmail.com
@@ -93,6 +94,8 @@ I'm a Computer Science graduate. I am learning Python and have basic skills as a
 ## 📈 Coding Activity
 
 ![Coding Activity](https://github-readme-streak-stats.herokuapp.com/?user=AVRSANAND&theme=radical)
+
+-->
 
 ## 🌱 Current Learning Goals
 
