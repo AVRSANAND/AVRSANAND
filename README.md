@@ -1,6 +1,6 @@
 # Hi there, I'm ANAND 👋
 
-I'm a Computer Science graduate. I am learning Python and have basic skills as a web developer (HTML/CSS/JS). I like working on Gen AI since it is the current hot topic in the industry. You can see some projects which I did by following tutorials or courses below. Thank you for your time.
+I'm a Computer Science graduate. I am well-versed in Python and have basic skills as a web developer (HTML/CSS/JS/React). I like working on Gen AI. You can see some of my projects in here. Thank you for your time.
 
 ## 🛠 My Skills and Technologies
 
@@ -43,6 +43,7 @@ I'm a Computer Science graduate. I am learning Python and have basic skills as a
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
